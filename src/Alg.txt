@@ -1,0 +1,9 @@
+- Ask for a data training dataset
+- Ask for a test data set
+
+- Load training data set
+- Load test data set
+    - check if the format is the same
+    - transform data sets to the matrices of vectors
+    -
+
